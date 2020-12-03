@@ -14,14 +14,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 80px;
 }
 
-.text {
-    color: rgb(94, 75, 139);
-    font-size: 75px;
-    letter-spacing: 5px;
-    
-}
 
 .card {
     padding-top: 65px;
@@ -31,7 +26,7 @@ body {
     background: white;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    width: 550px;
+    width: 400px;
     align-items: center
 }
 
@@ -41,18 +36,12 @@ body {
     display: block;
     /* font-size: 15px; */
     color: #666666;
-    /* padding: 0 25px 0 25px; */
+    padding: 20px;
     /* margin: 20px; */
     width: 100%;
-    border: none;
+    border: 1px solid #e6e6e6;
     align-items: center;
-    height: 35px;
-}
-
-.input-group input{
-    /* padding: 10px; */
-    font-size: 20px;
-    height: 50px;
+    height: 55px;
 }
 
 
@@ -71,8 +60,11 @@ h3 {
     margin-top: 20px;
     text-align: center;
     width: 300px;
+    height: 45px;
 }
 
-#signup-btn{
+.signup-btn{
     text-align: center;
+    width: 300px;
+    height: 45px;
 }
