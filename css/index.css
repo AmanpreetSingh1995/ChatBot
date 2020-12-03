@@ -19,7 +19,7 @@ body {
 
 
 .card {
-    padding-top: 65px;
+    padding-top: 45px;
     padding-right: 55px;
     padding-left: 55px;
     padding-bottom: 50px;
@@ -45,7 +45,7 @@ body {
 }
 
 
-h3 {
+/* h3 {
     margin-top: 0;
     display: block;
     font-family: OpenSans-Regular;
@@ -54,7 +54,7 @@ h3 {
     line-height: 1.2;
     text-align: center;
     padding-bottom: 33px;
-}
+} */
 
 .login-btn {
     margin-top: 20px;
